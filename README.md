@@ -1,5 +1,15 @@
 # Frontend Coding Challenge
 
+Deployed on:
+https://vitamin-challenge.netlify.app/
+
+Storybook Deployed on:
+https://vitamin-storybook.netlify.app/
+
+test coverage:
+https://vitamin-test-coverage.netlify.app/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
