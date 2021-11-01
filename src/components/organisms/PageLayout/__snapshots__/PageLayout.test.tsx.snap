@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PageLayout should render correctly and match to the Snapshot 1`] = `
+<div
+  className="PageLayoutstyled__StyledWrapper-sc-1kudg7l-0 bZBWEP"
+>
+  <div
+    className="Stackstyled__StackStyled-sc-1adxq1u-0 bnrRyH"
+    direction="column"
+  >
+    <div
+      className="Typographystyled__TypographyStyled-sc-i22hyo-0 jzzjid"
+    />
+    <div
+      className="Typographystyled__TypographyStyled-sc-i22hyo-0 iKdygM"
+    />
+    <div
+      className="Stackstyled__StackStyled-sc-1adxq1u-0 jWmaRX mainBlock"
+      direction="row"
+    />
+  </div>
+</div>
+`;

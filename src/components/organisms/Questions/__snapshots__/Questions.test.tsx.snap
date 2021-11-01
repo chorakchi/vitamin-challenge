@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Questions should render correctly and match to the Snapshot 1`] = `
+<div
+  className="Questionsstyled__StyledWrapper-sc-1yeop21-0 cNkGxQ"
+>
+  <div
+    className="Stackstyled__StackStyled-sc-1adxq1u-0 bnrRyH"
+    direction="column"
+  >
+    <label
+      className="Typographystyled__TypographyStyled-sc-i22hyo-0 iKdygM"
+    >
+      What’s your name?
+      <br />
+      <input
+        className="TextFieldstyled__TextFieldStyled-sc-mvtmc2-0 NTHeK"
+        type="text"
+      />
+    </label>
+  </div>
+  <div
+    className="Stackstyled__StackStyled-sc-1adxq1u-0 bnrRyH"
+    direction="column"
+  >
+    <label
+      className="Typographystyled__TypographyStyled-sc-i22hyo-0 iKdygM"
+    >
+      How much do you earn per month?
+      <br />
+      <input
+        className="TextFieldstyled__TextFieldStyled-sc-mvtmc2-0 NTHeK"
+        type="number"
+      />
+    </label>
+  </div>
+  <span>
+    <label
+      className="Typographystyled__TypographyStyled-sc-i22hyo-0 iKdygM"
+    >
+      What is your risk tolerance level?
+      <br />
+      <input
+        className="Sliderstyled__SliderStyled-sc-fj8kj3-0 ktJaBw"
+        max="10"
+        min="2"
+        step="2"
+        type="range"
+      />
+    </label>
+  </span>
+</div>
+`;

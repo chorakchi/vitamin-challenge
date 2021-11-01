@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextField should render correctly and match to the Snapshot 1`] = `
+<div
+  className="Stackstyled__StackStyled-sc-1adxq1u-0 bnrRyH"
+  direction="column"
+>
+  <label
+    className="Typographystyled__TypographyStyled-sc-i22hyo-0 iKdygM"
+  >
+    Label:
+    <br />
+    <input
+      className="TextFieldstyled__TextFieldStyled-sc-mvtmc2-0 NTHeK"
+    />
+  </label>
+</div>
+`;
