@@ -11,7 +11,10 @@ https://vitamin-test-coverage.netlify.app/
 
 ## Before running
 
-Need to set the token for API
+In order to use the 'financialmodelingprep' API you need an `Authentication token`, which you will put in the environment variables (`.env.local`) of the project.
+
+[Adding a custom environment variables](https://nextjs.org/docs/basic-features/environment-variables)
+
 After signing up to `financialmodelingprep.com` and copying the token set it in `.env.local` for `REACT_APP_AUTHORIZATION_TOKEN`
 then instal by `yarn` and then run with `yarn dev` in yuor local
 
