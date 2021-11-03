@@ -9,7 +9,7 @@ https://vitamin-storybook.netlify.app/
 test coverage:
 https://vitamin-test-coverage.netlify.app/
 
-## before running
+## Before running
 
 Need to set the token for API
 After signing up to `financialmodelingprep.com` and copying the token set it in `.env.local` for `REACT_APP_AUTHORIZATION_TOKEN`
